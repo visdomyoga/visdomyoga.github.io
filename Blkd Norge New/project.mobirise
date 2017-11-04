@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 96,
+    "uniqCompNum": 99,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -64,61 +64,75 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "color": "#f3c649",
-              "font-size": "48px"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "48px",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-section-title I": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-title DIV": {
-              "color": "#fac51c",
-              "font-size": "30px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            }
-          },
-          "_anchor": "header1-1h",
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-2q",
           "_params": {
+            "imageSize": 90,
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#a07e49",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<br>i Norge 2017<br><div><i><br></i></div><div>Møt en verdenskjent<br>ekspert i yoga-vitenskapen<br></div>",
-          "text": "<br><span style=\"font-style: normal;\">Vi inviterer deg til en annen forelesning - dette handler om deg!<br><b>Et liv uten ensomhet, angst, stress - er det mulig?</b><br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, ikke en som bare ser bra ut på utsiden.&nbsp;Møt den verdenskende yogin, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å belyse emner som er relatert til livet selv og hvordan du skal ordne livet ditt for å oppleve sann og varig lykke.<br>Dette kan forandre livet ditt!</span><br><br><span style=\"font-style: normal;\"><b>BOKE GRATIS BILLETT TIL SEMINAR:</b></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"oslo.html\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"trondheim.html\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a> "
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
+          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en annen forelesning - dette handler om deg!<br>Et liv uten ensomhet, angst, stress - er det mulig?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, ikke et som bare ser bra ut på utsiden. Møt den verdenskende yogin, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å belyse emner som er relatert til livet selv og hvordan du skal ordne livet ditt for å oppleve sann og varig lykke.<br>Dette kan forandre livet ditt!</b></span><br><span style=\"font-style: normal;\"><b><br></b></span><b>PÅMELDING FOR GRATIS SEMINAR:</b>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
+          "media": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader6.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "active": true,
+              "src": "vimeo.com/241307884",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "_styles": {
+            "DIV": {
+              "color": "#475577",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "21px",
+              "color": "#414141"
+            }
+          }
         },
         {
           "_styles": {
@@ -1968,7 +1982,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x3379.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33715.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2648,7 +2662,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x3379.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33715.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,

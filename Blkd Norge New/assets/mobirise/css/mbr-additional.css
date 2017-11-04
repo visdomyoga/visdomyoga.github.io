@@ -1,12 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -690,27 +689,20 @@ h6,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
 }
-#header1-1h .mbr-section-title SPAN {
-  color: #f3c649;
-  font-size: 48px;
+#extHeader6-2q DIV {
+  color: #475577;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
 }
-#header1-1h .mbr-section-title {
-  color: #ffffff;
-  font-size: 48px;
+#extHeader6-2q H3 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
-#header1-1h .mbr-section-lead {
+#extHeader6-2q P {
   font-family: 'Lato', sans-serif;
+}
+#extHeader6-2q SPAN {
   font-size: 21px;
-}
-#header1-1h .mbr-section-title I {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 36px;
-}
-#header1-1h .mbr-section-title DIV {
-  color: #fac51c;
-  font-size: 30px;
-  font-family: 'Ubuntu', sans-serif;
+  color: #414141;
 }
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
