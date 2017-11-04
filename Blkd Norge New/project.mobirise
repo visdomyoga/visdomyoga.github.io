@@ -76,7 +76,7 @@
             "imageSize": 90,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rob-bye-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -91,7 +91,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
-          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en annen forelesning - dette handler om deg!<br>Et liv uten ensomhet, angst, stress - er det mulig?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, ikke et som bare ser bra ut på utsiden. Møt den verdenskende yogin, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å belyse emner som er relatert til livet selv og hvordan du skal ordne livet ditt for å oppleve sann og varig lykke.<br>Dette kan forandre livet ditt!</b></span><br><span style=\"font-style: normal;\"><b><br></b></span><b>PÅMELDING FOR GRATIS SEMINAR:</b>",
+          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en annen forelesning - dette handler om deg!<br>Et liv uten ensomhet, angst, stress - er det mulig?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, ikke et som bare ser bra ut på utsiden. Møt den verdenskende yogin, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å belyse emner som er relatert til livet selv og hvordan du skal ordne livet ditt for å oppleve sann og varig lykke.<br>Dette kan forandre livet ditt!</b></span><br><span style=\"font-style: normal;\"><b><br></b></span><b style=\"font-style: normal;\">PÅMELDING FOR GRATIS SEMINAR:</b>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -1982,7 +1982,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33715.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33719.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2113,7 +2113,7 @@
           },
           "title2": "PÅMELDING",
           "form": {
-            "action": "oslomeditasjon@gmail.com",
+            "action": "info@trondheimmeditasjon.no",
             "alerts": {
               "success": "Takk - du er påmeldt!"
             },
@@ -2248,8 +2248,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "chat",
-              "family": "et-line",
+              "name": "home",
+              "family": "MobiriseIcons",
               "active": true,
               "size": 0,
               "color": "#b8312f"
@@ -2662,7 +2662,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33715.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33719.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
