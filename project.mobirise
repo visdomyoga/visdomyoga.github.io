@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -264,6 +264,24 @@
             "Extension"
           ],
           "_name": "extHeader13",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#fac51c"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px",
+              "color": "#fac51c"
+            },
+            "H4": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "extHeader13-11",
           "_params": {
             "parallax": false,
@@ -316,25 +334,7 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">MELD MEG PÅ I OSLO</a>",
           "title": "OSLO<br>",
-          "text": "6. DESEMBER&nbsp;18:00<br>LITTERATURHUSET<br>WERGELANDSVEIEN 29<br>TEL. 98041818<br>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#fac51c"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            }
-          }
+          "text": "6. DESEMBER&nbsp;18:00<br>LITTERATURHUSET<br>WERGELANDSVEIEN 29<br>TEL. 98041818<br>"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
