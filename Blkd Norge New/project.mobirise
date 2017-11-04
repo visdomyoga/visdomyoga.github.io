@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -142,7 +142,7 @@
             "showMeta": true
           },
           "title": "Velkommen hit.",
-          "meta": "Av Balakhilya das, 3 November 2017<br>(oversatt fra Engelsk)"
+          "meta": "<span style=\"font-style: normal;\">Av Balakhilya das, 3 November 2017<br>(oversatt fra Engelsk)</span>"
         },
         {
           "_tags": [
@@ -166,7 +166,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</p><p>Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</p><p>&nbsp; &nbsp;&nbsp;</p><p>Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon av livets mening. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</p><p><br></p><p>I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</p><p><br></p><p>Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</p><p><br></p><p>Beste ønsker,</p><p>Balakhilya das</p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</span></p><p><span style=\"font-style: normal;\">Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon av livets mening. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Beste ønsker,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2259,7 +2259,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x3370.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x3372.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2939,7 +2939,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x3370.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x3372.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3085,7 +3085,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x16001.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x16003.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
