@@ -40,7 +40,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -98,7 +98,7 @@
             "imageSize": "71",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3552.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -570,7 +570,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1030,7 +1030,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "KONTAKT OSS",
+          "title": "KONTAKT OSS HER",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "info@trondheimmeditasjon.no",
